@@ -1,4 +1,4 @@
-# Genoshide Token Account Closer Bot
+# Solana Token Account Closer Bot
 
 A professional, modular Solana bot that automatically closes empty token accounts across multiple wallets, running in parallel threads with an endless loop.
 
@@ -38,6 +38,11 @@ genoshide_bot/
 ## Setup
 
 **1. Install dependencies**
+```bash
+git clone https://github.com/genoshide/solana-account-closer-bot.git
+cd solana-account-closer-bot
+```
+
 ```bash
 pip install -r requirements.txt
 ```

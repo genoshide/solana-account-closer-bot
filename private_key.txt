@@ -1,0 +1,19 @@
+# ============================================================
+#  Genoshide Bot - Private Key File
+#  - Add one base58 private key per line.
+#  - Lines starting with '#' are ignored (comments).
+#  - Empty lines are ignored.
+#
+#  RULES:
+#    1 key  → rent SOL sent back to the wallet itself (owner).
+#    2+ keys → rent SOL sent to DESTINATION_WALLET in .env.
+#
+#  SECURITY WARNING:
+#    Never share this file or commit it to version control.
+#    Add private_key.txt to your .gitignore.
+# ============================================================
+
+# Example (replace with your actual keys):
+# YOUR_BASE58_PRIVATE_KEY_1
+# YOUR_BASE58_PRIVATE_KEY_2
+# YOUR_BASE58_PRIVATE_KEY_3
